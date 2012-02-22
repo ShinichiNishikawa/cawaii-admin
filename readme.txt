@@ -2,8 +2,8 @@
 Contributors: ShinichiN
 Tags: dashboard,admin,cawaii,background,logo,login,menu
 Requires at least: 3.2.1
-Tested up to: 3.2.1
-Stable tag: 0.1.4
+Tested up to: 3.3.1
+Stable tag: 0.2.0
 
 Make your admin panel cawaii!!
 
@@ -41,6 +41,8 @@ You can choose whether to use these functionality or wordpress default look.
 
 == Changelog ==
 
+    = 0.2.0 =
+    * works with WordPress 3.3.1
     = 0.1.4 =
     * Internationalized with ja files.
     = 0.1.3 =
