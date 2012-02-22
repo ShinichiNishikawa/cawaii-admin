@@ -1,0 +1,412 @@
+# Copyright (C) 2010 Cawaii Admin
+# This file is distributed under the same license as the Cawaii Admin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cawaii Admin 0.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cawaii-admin\n"
+"POT-Creation-Date: 2011-09-26 02:20:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-09-26 11:30+0900\n"
+"Last-Translator: Shinichi Nishikawa <shinichi.nishikawa@gmail.com>\n"
+"Language-Team: \n"
+
+#: inc/cawaii_admin_setting_page.php:6
+#: cawaii_admin_setting_page.php:6
+msgid "Menu Type"
+msgstr "メニュー"
+
+#: inc/cawaii_admin_setting_page.php:9
+#: cawaii_admin_setting_page.php:9
+msgid "Select where to display menus"
+msgstr "メニューの表示方法"
+
+#: inc/cawaii_admin_setting_page.php:11
+#: cawaii_admin_setting_page.php:11
+msgid "No Sidebar and Display cawaii menu in header which contains minimums."
+msgstr "サイドバーなし。最低限のメニューのみヘッダーに表示"
+
+#: inc/cawaii_admin_setting_page.php:12
+#: cawaii_admin_setting_page.php:12
+msgid "Display the default WordPress menu on Sidebar."
+msgstr "WordPress標準"
+
+#: inc/cawaii_admin_setting_page.php:17
+#: cawaii_admin_setting_page.php:17
+msgid "Background"
+msgstr "背景"
+
+#: inc/cawaii_admin_setting_page.php:20
+#: cawaii_admin_setting_page.php:20
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/cawaii_admin_setting_page.php:22
+#: cawaii_admin_setting_page.php:22
+msgid "Pale Brown"
+msgstr "薄いブラウン"
+
+#: inc/cawaii_admin_setting_page.php:23
+#: cawaii_admin_setting_page.php:23
+msgid "Paper"
+msgstr "紙"
+
+#: inc/cawaii_admin_setting_page.php:24
+#: cawaii_admin_setting_page.php:24
+msgid "Lily heraldic emblem on green fabric"
+msgstr "緑の布地に百合の紋章"
+
+#: inc/cawaii_admin_setting_page.php:25
+#: cawaii_admin_setting_page.php:25
+msgid "carpet"
+msgstr "絨毯"
+
+#: inc/cawaii_admin_setting_page.php:26
+#: cawaii_admin_setting_page.php:26
+msgid "Hearts"
+msgstr "グレーにハート"
+
+#: inc/cawaii_admin_setting_page.php:27
+#: cawaii_admin_setting_page.php:27
+msgid "WordPress default(white)"
+msgstr "WordPress標準（白）"
+
+#: inc/cawaii_admin_setting_page.php:31
+#: cawaii_admin_setting_page.php:31
+msgid "Scroll or fixed"
+msgstr "スクロールと固定"
+
+#: inc/cawaii_admin_setting_page.php:33
+#: cawaii_admin_setting_page.php:33
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/cawaii_admin_setting_page.php:34
+#: cawaii_admin_setting_page.php:34
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/cawaii_admin_setting_page.php:39
+#: cawaii_admin_setting_page.php:39
+msgid "Colors"
+msgstr "色"
+
+#: inc/cawaii_admin_setting_page.php:42
+#: cawaii_admin_setting_page.php:42
+msgid "Colors of textx, links and boxes"
+msgstr "文字、リンク、ボックスの色"
+
+#: inc/cawaii_admin_setting_page.php:44
+#: cawaii_admin_setting_page.php:44
+msgid "Warm colors"
+msgstr "暖色"
+
+#: inc/cawaii_admin_setting_page.php:45
+#: cawaii_admin_setting_page.php:45
+msgid "Cold colors"
+msgstr "寒色"
+
+#: inc/cawaii_admin_setting_page.php:46
+#: cawaii_admin_setting_page.php:46
+msgid "Default colors"
+msgstr "WordPress標準"
+
+#: inc/cawaii_admin_setting_page.php:50
+#: cawaii_admin_setting_page.php:50
+msgid "Logos"
+msgstr "ロゴ"
+
+#: inc/cawaii_admin_setting_page.php:53
+#: cawaii_admin_setting_page.php:53
+msgid "Logo on the header of the admin panel"
+msgstr "管理画面ヘッダーのロゴ"
+
+#: inc/cawaii_admin_setting_page.php:55
+#: inc/cawaii_admin_setting_page.php:63
+#: cawaii_admin_setting_page.php:55
+#: cawaii_admin_setting_page.php:63
+msgid "Choose"
+msgstr "画像を選択"
+
+#: inc/cawaii_admin_setting_page.php:55
+#: cawaii_admin_setting_page.php:55
+msgid "Check and upload image file around 60px height."
+msgstr "チェックを入れて、高さ60pxくらいの画像をアップロードして下さい"
+
+#: inc/cawaii_admin_setting_page.php:56
+#: inc/cawaii_admin_setting_page.php:64
+#: cawaii_admin_setting_page.php:56
+#: cawaii_admin_setting_page.php:64
+msgid "Wapuu logo"
+msgstr "わぷーのロゴ"
+
+#: inc/cawaii_admin_setting_page.php:57
+#: cawaii_admin_setting_page.php:57
+msgid "WordPress logo"
+msgstr "WordPressのロゴ"
+
+#: inc/cawaii_admin_setting_page.php:61
+#: cawaii_admin_setting_page.php:61
+msgid "Logo on login page"
+msgstr "ログイン画面のロゴ"
+
+#: inc/cawaii_admin_setting_page.php:63
+#: cawaii_admin_setting_page.php:63
+msgid "Check and upload image file around 80px height and 325px width"
+msgstr "チェックを入れて、高さ80pxくらい、幅325pxくらいの画像をアップロードして下さい"
+
+#: inc/cawaii_admin_setting_page.php:65
+#: cawaii_admin_setting_page.php:65
+msgid "WordPress default logo"
+msgstr "WordPress標準"
+
+#: inc/cawaii_admin_setting_page.php:70
+#: cawaii_admin_setting_page.php:70
+msgid "metaboxes"
+msgstr "メタボックスの非表示"
+
+#: inc/cawaii_admin_setting_page.php:73
+#: cawaii_admin_setting_page.php:73
+msgid "Dashboard metaboxes"
+msgstr "ダッシュボードのメタボックス"
+
+#: inc/cawaii_admin_setting_page.php:74
+#: cawaii_admin_setting_page.php:74
+msgid "(Select metaboxes to remove from the dashboard)"
+msgstr "(ダッシュボードで非表示にするメタボックスを選択して下さい)"
+
+#: inc/cawaii_admin_setting_page.php:88
+#: cawaii_admin_setting_page.php:88
+msgid "Right Now"
+msgstr "現在の状況"
+
+#: inc/cawaii_admin_setting_page.php:89
+#: cawaii_admin_setting_page.php:89
+msgid "Recent Comments"
+msgstr "最近のコメント"
+
+#: inc/cawaii_admin_setting_page.php:90
+#: cawaii_admin_setting_page.php:90
+msgid "Incoming Links"
+msgstr "被リンク"
+
+#: inc/cawaii_admin_setting_page.php:91
+#: inc/cawaii-admin-header-menu.php:21
+#: inc/cawaii-admin-header-menu.php:23
+#: cawaii_admin_setting_page.php:91
+#: cawaii-admin-header-menu.php:21
+#: cawaii-admin-header-menu.php:23
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: inc/cawaii_admin_setting_page.php:92
+#: cawaii_admin_setting_page.php:92
+msgid "WordPress Developers Blog"
+msgstr "WordPress開発者ブログ"
+
+#: inc/cawaii_admin_setting_page.php:93
+#: cawaii_admin_setting_page.php:93
+msgid "Forums"
+msgstr "フォーラム"
+
+#: inc/cawaii_admin_setting_page.php:94
+#: cawaii_admin_setting_page.php:94
+msgid "Quick Press"
+msgstr "クイック投稿"
+
+#: inc/cawaii_admin_setting_page.php:95
+#: cawaii_admin_setting_page.php:95
+msgid "Recent Drafts"
+msgstr "最近の下書き"
+
+#: inc/cawaii_admin_setting_page.php:99
+#: cawaii_admin_setting_page.php:99
+msgid "Edit page metaboxes"
+msgstr "投稿／ページのメタボックス"
+
+#: inc/cawaii_admin_setting_page.php:100
+#: cawaii_admin_setting_page.php:100
+msgid "(Select metaboxes to remove from the post and page edit pages)"
+msgstr "(投稿と固定ページから消したいメタボックスにチェックを入れて下さい。)"
+
+#: inc/cawaii_admin_setting_page.php:115
+#: cawaii_admin_setting_page.php:115
+msgid "Customfield"
+msgstr "カスタムフィールド"
+
+#: inc/cawaii_admin_setting_page.php:116
+#: cawaii_admin_setting_page.php:116
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/cawaii_admin_setting_page.php:117
+#: inc/cawaii-admin-header-menu.php:11
+#: cawaii_admin_setting_page.php:117
+#: cawaii-admin-header-menu.php:11
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/cawaii_admin_setting_page.php:118
+#: cawaii_admin_setting_page.php:118
+msgid "Trackback"
+msgstr "トラックバック"
+
+#: inc/cawaii_admin_setting_page.php:119
+#: cawaii_admin_setting_page.php:119
+msgid "Revisions"
+msgstr "リビジョン"
+
+#: inc/cawaii_admin_setting_page.php:120
+#: cawaii_admin_setting_page.php:120
+msgid "Format"
+msgstr "フォーマット"
+
+#: inc/cawaii_admin_setting_page.php:121
+#: cawaii_admin_setting_page.php:121
+msgid "Slug"
+msgstr "スラッグ"
+
+#: inc/cawaii_admin_setting_page.php:122
+#: cawaii_admin_setting_page.php:122
+msgid "Author"
+msgstr "作成者"
+
+#: inc/cawaii_admin_setting_page.php:123
+#: cawaii_admin_setting_page.php:123
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/cawaii_admin_setting_page.php:124
+#: cawaii_admin_setting_page.php:124
+msgid "Post Tags"
+msgstr "タグ"
+
+#: inc/cawaii_admin_setting_page.php:131
+#: cawaii_admin_setting_page.php:131
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: inc/cawaii-admin-header-menu.php:3
+#: inc/cawaii-admin-header.php:23
+#: cawaii-admin-header-menu.php:3
+#: cawaii-admin-header.php:23
+msgid "Dashboard"
+msgstr "管理画面トップ"
+
+#: inc/cawaii-admin-header-menu.php:4
+#: cawaii-admin-header-menu.php:4
+msgid "Posts/Pages"
+msgstr "記事"
+
+#: inc/cawaii-admin-header-menu.php:6
+#: cawaii-admin-header-menu.php:6
+msgid "New post"
+msgstr "記事を書く"
+
+#: inc/cawaii-admin-header-menu.php:7
+#: cawaii-admin-header-menu.php:7
+msgid "View all posts"
+msgstr "記事一覧"
+
+#: inc/cawaii-admin-header-menu.php:8
+#: cawaii-admin-header-menu.php:8
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/cawaii-admin-header-menu.php:9
+#: cawaii-admin-header-menu.php:9
+msgid "Post tags"
+msgstr "タグ"
+
+#: inc/cawaii-admin-header-menu.php:10
+#: cawaii-admin-header-menu.php:10
+msgid "view all pages"
+msgstr "ページ一覧"
+
+#: inc/cawaii-admin-header-menu.php:14
+#: cawaii-admin-header-menu.php:14
+msgid "Themes"
+msgstr "デザイン"
+
+#: inc/cawaii-admin-header-menu.php:16
+#: cawaii-admin-header-menu.php:16
+msgid "Choose theme"
+msgstr "デザインを選ぶ"
+
+#: inc/cawaii-admin-header-menu.php:17
+#: cawaii-admin-header-menu.php:17
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: inc/cawaii-admin-header-menu.php:18
+#: cawaii-admin-header-menu.php:18
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/cawaii-admin-header-menu.php:24
+#: inc/cawaii-admin-header-menu.php:29
+#: cawaii-admin-header-menu.php:24
+#: cawaii-admin-header-menu.php:29
+msgid "Add new"
+msgstr "新規追加"
+
+#: inc/cawaii-admin-header-menu.php:27
+#: cawaii-admin-header-menu.php:27
+msgid "Media"
+msgstr "写真"
+
+#: inc/cawaii-admin-header-menu.php:30
+#: cawaii-admin-header-menu.php:30
+msgid "View all"
+msgstr "一覧"
+
+#: inc/cawaii-admin-header-menu.php:31
+#: cawaii-admin-header-menu.php:31
+msgid "Media settings"
+msgstr "メディア設定"
+
+#: inc/cawaii-admin-header-menu.php:34
+#: cawaii-admin-header-menu.php:34
+msgid "Other settings"
+msgstr "その他の設定"
+
+#: inc/cawaii-admin-header-menu.php:36
+#: cawaii-admin-header-menu.php:36
+msgid "Cawaii admin"
+msgstr "かわいいアドミン"
+
+#: inc/cawaii-admin-header.php:27
+#: cawaii-admin-header.php:27
+msgid "Hello, "
+msgstr "こんにちは、"
+
+#: inc/cawaii-admin-header.php:29
+#: cawaii-admin-header.php:29
+msgid "logout"
+msgstr "ログアウト"
+
+#: cawaii-admin.php:388
+msgid "You should specify a nonce action to be verified by using the first parameter."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Cawaii Admin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/cawaii-admin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "make your admin panel cawaii!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shinichi Nishikawa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nskw-style.com/"
+msgstr ""
+

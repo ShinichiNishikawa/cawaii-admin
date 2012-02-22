@@ -1,0 +1,19 @@
+#wpbody{
+	position: static;
+}
+#logoarea {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+/*
+#wpcontent{
+	height: 100%;
+	position: absolute;
+	top: 100px;
+}
+*/
+/*
+#wpbody-content {
+	position: relative;
+}
+*/

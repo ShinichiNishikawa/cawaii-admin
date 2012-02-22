@@ -1,0 +1,163 @@
+#wphead,
+#contextual-help-link-wrap,
+#screen-options-link-wrap {
+	display:none;
+}
+#logoarea {
+	margin-right: 20px;
+	float: left;
+}
+#basicarea {
+	float: left;
+	text-align: right;
+	padding-top: 30px;
+	font-size: 13px;
+}
+#wpcontent {
+	height: auto;
+}
+#colog-nav-box {
+	clear: both;
+}
+ul#colog-admin-nav {
+    margin: 25px 0 25px;
+    float: left;
+    border: solid #46210C 1px;
+    border-right: none;
+    height: 40px;
+	font-size: 115%;
+}
+    ul#colog-admin-nav li {
+        float: left;
+        border-right: solid #46210C 1px;
+        height: 40px;
+        width: 125px;
+        text-align: center;
+        line-height: 40px;
+        background-color: #fff;
+    }
+    ul#colog-admin-nav li.hover {
+        background: #eee;
+    }
+    
+        ul#colog-admin-nav li a {
+            display: block;
+            color: #252525;
+            text-decoration: none;
+        }
+
+        ul#colog-admin-nav li ul {
+            border: none;
+            display: none;
+            background: #eee;
+            overflow: hidden;
+            opacity: .9;
+            filter: alpha(opacity=90);
+            position: relative;
+            z-index: 100;
+        }
+
+	/* diary */
+    #colog-admin-nav .diary {
+    	background-color: #FFF0F8;
+    }
+    #colog-admin-nav li.diary.hover {
+        background: #EFABCD;
+    }
+        #colog-admin-nav .diary ul, #colog-admin-nav .diary ul li {
+        	background: #FFF0F8;
+        }
+        #colog-admin-nav .diary ul li:hover {
+            background: #EFABCD;
+        }
+
+	/* design */
+	#colog-admin-nav .design {
+    	background-color: #F5FCE8;
+    }
+    #colog-admin-nav li.design.hover {
+        background: #BEDB7D;
+    }
+        #colog-admin-nav .design ul, #colog-admin-nav .design ul li {
+        	background: #F5FCE8;
+        }
+        #colog-admin-nav .design ul li:hover {
+            background: #BEDB7D;
+        }
+
+	/* users */
+    #colog-admin-nav .users {
+    	background-color: #F9F8D9;
+    }
+    #colog-admin-nav li.users.hover {
+        background: #F7E36D;
+    }
+        #colog-admin-nav .users ul, #colog-admin-nav .users ul li {
+        	background: #F9F8D9;
+        }
+        #colog-admin-nav .users ul li:hover {
+            background: #F7E36D;
+        }
+
+	/* media */
+    #colog-admin-nav .media {
+    	background-color: #DBF6FC;
+    }
+    #colog-admin-nav li.media.hover {
+        background: #8FE2EF;
+    }
+        #colog-admin-nav .media ul, #colog-admin-nav .media ul li {
+        	background: #DBF6FC;
+        }
+        #colog-admin-nav .media ul li:hover {
+            background: #8FE2EF;
+        }
+
+	/* options */
+    #colog-admin-nav .options {
+    	background-color: #F9ECDE;
+    }
+    #colog-admin-nav li.options.hover {
+        background: #F9B978;
+    }
+        #colog-admin-nav .options ul, #colog-admin-nav .options ul li {
+        	background: #F9ECDE;
+        }
+        #colog-admin-nav .options ul li:hover {
+            background: #F9B978;
+        }
+
+            ul#colog-admin-nav li ul li {
+                border: none;
+	            background: #666;
+            }
+            ul#colog-admin-nav li ul li.hover {
+                background: #777;
+            }
+
+                ul#colog-admin-nav li ul li a {
+                    color: #222;
+                    font-weight: bold;
+                }
+
+
+/* 本文入力欄 */
+#editorcontainer, #content_tbl {
+	background-color: #fff;
+}
+#post-body {
+background: none;
+}
+#editorcontainer, #post-status-info, #titlediv #title, .editwidget .widget-inside{
+border-width: 2px;
+}
+#quicktags #ed_toolbar{
+border: 1px solid #8bc53f;
+border-bottom: none;
+}
+#dashboard_right_now p.musub {
+border-top: 1px solid #F1F8EE;
+}
+#dashboard_right_now .t {
+padding-right: 0;
+}

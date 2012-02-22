@@ -1,0 +1,14 @@
+#adminmenuback,
+#adminmenu {
+	display: none;
+}
+
+/* 左寄せ */
+#wpcontent{margin-left:20px;clear:both;}
+
+#colog-admin-menu {
+	margin: 10px 20px 25px;
+}
+#wpcontent, #footer {
+	margin-left: 20px;
+}

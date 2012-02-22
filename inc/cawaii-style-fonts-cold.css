@@ -1,0 +1,106 @@
+.wrap h2, .subtitle,
+.form-table th, .form-wrap label {
+	text-shadow: none;
+}
+
+/* 全体の文字、リンク */
+a, #adminmenu a, #poststuff #edButtonPreview, #poststuff #edButtonHTML, #the-comment-list p.comment-author strong a, #media-upload a.del-link, #media-items a.delete, .plugins a.delete, .ui-tabs-nav a, #colo_user_info a:link, #colo_user_info a:visited, #footer a:link, #footer a:visited{
+color: #42C3E5;/* リンクの水色 */
+}
+#wpbody .manage-column a{
+color: #333;
+}
+body, #wpbody, .form-table .pre {
+	color: #222;
+}
+a:hover, a:active, a:focus{
+color: #f186b6;/* ピンク色 */
+}
+#wphead #viewsite a:hover,#adminmenu a:hover,#adminmenu ul.wp-submenu a:hover,#the-comment-list .comment a:hover,#rightnow a:hover,#media-upload a.del-link:hover,div.dashboard-widget-submit input:hover,.subsubsub a:hover,.subsubsub a.current:hover,.ui-tabs-nav a:hover,.plugins .inactive a:hover,#all-plugins-table .plugins .inactive a:hover,#search-plugins-table .plugins .inactive a:hover,{
+color: #f186b6 !important;/* ピンク色 */
+background-color:#e0f5fc !important;
+}
+th.sortable a:hover,th.sortable a:active,th.sortable a:focus{
+color: #f186b6 !important;
+}
+#wpbody .manage-column th.sortable a:hover,th.sortable a:active,th.sortable a:focus{
+color: #333 !important;
+}
+.wrap h2, .ui-sortable .postbox h3, .col-wrap h3{
+color: #46210C;
+}
+/* サブミットボタン */
+input.button-primary, button.button-primary, a.button-primary {
+background-color: #F48120;
+background-image: none;
+border-color: #F48120;
+text-shadow: none;
+}
+/* 表組みとボックス */
+.alternate, .alt{/* 交互に出るリストの背景色 */
+background-color: #f1f8ee;/* うすみどり */
+}
+.sidebar-name, .postbox .hndle, .wp_themeSkin tr.mceFirst td.mceToolbar, .quicktags-toolbar {/* ウィジェットボックス */
+background-color: #E2F0D2 !important;/* 濃い目の薄緑 */
+}
+.widget, #widget-list .widget-top, .postbox, .stuffbox{ /* .postboxは投稿ページでの右側の箱 */
+border: 2px solid #8bc53f;/* ロゴみどり */
+}
+table.wp-list-table.widefat.fixed.tags {
+border: 2px solid #8bc53f;/* ロゴみどり */
+}
+.widefat thead tr th{
+background: #E2F0D2;
+}
+
+/* #titlediv, #poststuff .postarea, */
+.widefat tfoot tr th, h3.dashboard-widget-title, h3.dashboard-widget-title span, h3.dashboard-widget-title small, .find-box-head{
+background: #E2F0D2;
+}
+/* ウィジェットボックス */
+.widget .widget-top, .postbox h3, .stuffbox h3{
+background: #fff;
+border-bottom: 1px solid #8bc53f;
+}
+/* ウィジェットページのウィジェットボックス */
+#available-widgets .widget-holder, .widget-holder, .sidebar-name {
+background: #fff;
+border: 2px solid #8bc53f;
+border-width: 2px !important;
+}
+.sidebar-name, .widgets-holder-wrap {
+	border-bottom-width: 1px !important;
+}
+.widget-holder {
+	border-top: none !important;
+}
+.widget-liquid-right .widgets-sortables, #widgets-left .widget-holder {
+	border: 1px solid #8bc53f;
+}
+
+/* 投稿ページ */
+#titlediv #title {
+	border-width: 2px;
+}
+#quicktags #ed_toolbar{
+background: #E2F0D2;/* 濃い目の薄緑 */
+}
+#post-status-info{
+background: #E2F0D2;/* 濃い目の薄緑 */
+}
+.tabs-panel {
+background-color: #fff;
+}
+#editorcontainer, #post-status-info, #titlediv #title, .editwidget .widget-inside{
+border-color: #8bc53f;
+}
+.wp_themeSkin tr.mceFirst td.mceToolbar {
+background: #E2F0D2;
+}
+#poststuff #editor-toolbar .active {
+border-bottom-color: #E2F0D2;
+}
+#poststuff #editor-toolbar .active {
+background: #E2F0D2;
+border-color: #8bc53f;
+}
