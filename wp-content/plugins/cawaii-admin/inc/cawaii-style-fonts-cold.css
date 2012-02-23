@@ -29,6 +29,24 @@ color: #333 !important;
 .wrap h2, .ui-sortable .postbox h3, .col-wrap h3{
 color: #46210C;
 }
+
+/*3.3対応*/
+tr.mceFirst td.mceToolbar,
+.quicktags-toolbar, 
+span.mceEditor.wp_themeSkin tr.mceFirst td.mceToolbar {
+	background-color: #E2F0D2 !important;
+	background-image: none !important;
+	border-bottom: 1px solid #8BC53F;
+}
+.wp-editor-container{
+	border-top: 2px solid #8BC53F !important;
+	border-left: 2px solid #8BC53F !important;
+	border-right: 2px solid #8BC53F !important;
+}
+#content-tmce, #content-html{
+	border: 1px solid #8BC53F;
+}
+
 /* サブミットボタン */
 input.button-primary, button.button-primary, a.button-primary {
 background-color: #F48120;

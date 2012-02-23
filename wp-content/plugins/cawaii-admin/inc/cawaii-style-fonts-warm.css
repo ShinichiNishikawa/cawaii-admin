@@ -36,6 +36,24 @@ color: #333 !important;
 .wrap h2, .ui-sortable .postbox h3, .col-wrap h3{
 color: #46210C;
 }
+
+/*3.3対応*/
+tr.mceFirst td.mceToolbar,
+.quicktags-toolbar, 
+span.mceEditor.wp_themeSkin tr.mceFirst td.mceToolbar {
+	background-color: #F9ECDE !important;
+	background-image: none !important;
+	border-bottom: 1px solid #F48120;
+}
+.wp-editor-container{
+	border-top: 2px solid #F48120 !important;
+	border-left: 2px solid #F48120 !important;
+	border-right: 2px solid #F48120 !important;
+}
+#content-tmce, #content-html{
+	border: 1px solid #F48120;
+}
+
 /* サブミットボタン */
 input.button-primary, button.button-primary, a.button-primary {
 background-color: #F186B6;
